@@ -243,4 +243,4 @@ This repository serves as the official landing page for Visual COBOL. The softwa
 **Get the most recent version of Visual COBOL today!**
 
 ---
-**Last updated:** 2026-10-26 21:28:54 UTC
+**Last updated:** 2026-10-27 01:16:58 UTC
